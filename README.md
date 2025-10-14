@@ -47,8 +47,4 @@ Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=replyar28@gma
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-webnox&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=ar-webnox&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 </div>
