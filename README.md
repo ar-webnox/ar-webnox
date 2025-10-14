@@ -48,7 +48,7 @@ Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=replyar28@gma
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-webnox&theme=tokyonight" alt="github streaks" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=ar-webnox&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 </div>
