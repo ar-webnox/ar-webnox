@@ -14,7 +14,7 @@
 <p>
 I love building <b>clean, modern & responsive web experiences</b>.<br>
 Currently exploring <b>JavaScript</b> and <b>UI/UX Design</b>.<br>
-Check out my main portfolio: <a href="https://arox-portfolio-arwebnox.vercel.app" target="_blank"><b>arox-portfolio-arwebnox.vercel.app</b></a><br>
+Check out my main portfolio: <a href="https://arox-portfolio-arwebnox.vercel.app" target="_blank"><b>arox-portfolio.vercel.app</b></a><br>
 Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=replyar28@gmail.com&su=Hello&body=Write+your+message+here&tf=cm" target="_blank">replyar28@gmail.com<a></b>
 </p>
 
