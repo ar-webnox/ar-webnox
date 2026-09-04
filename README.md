@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 Name: Abdul Rehman
@@ -36,7 +36,7 @@ Email:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Email:
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -82,7 +82,7 @@ Email:
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Email:
 
 ---
 
-## 📈 GitHub Summary
+## GitHub Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-webnox&theme=tokyonight" />
@@ -110,7 +110,7 @@ Email:
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - 🚀 Build Premium Web Projects
 - ⚡ Master JavaScript & Next.js
@@ -120,11 +120,11 @@ Email:
 
 ---
 
-## 💻 Featured Portfolio
+## Featured Portfolio
 
 <div align="center">
 
-### 🌐 AR Portfolio
+### AR Portfolio
 
 Modern responsive portfolio built with:
 
@@ -136,7 +136,7 @@ Modern responsive portfolio built with:
 
 ---
 
-## ☕ Developer Quote
+## Developer Quote
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Modern responsive portfolio built with:
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile ✨
+### Thanks for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:8b5cf6&section=footer"/>
 
