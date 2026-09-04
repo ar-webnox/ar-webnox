@@ -45,7 +45,7 @@ Email:
 </a>
 
 <a href="https://www.facebook.com/ar.webnox">
-  <img src="https://skillicons.dev/icons?i=facebook" />
+  <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="48" alt="Facebook"/>
 </a>
 
 <a href="https://www.instagram.com/ar.webnox">
@@ -82,18 +82,6 @@ Email:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-webnox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-webnox&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -104,23 +92,21 @@ Email:
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Summary
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-webnox&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-webnox&theme=tokyo-night&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar-webnox&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar-webnox&theme=tokyonight" />
+</p>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ar-webnox&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ar-webnox&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ar-webnox&theme=tokyonight" />
+</p>
 
 ---
 
@@ -144,7 +130,7 @@ Modern responsive portfolio built with:
 
 `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
 
-🔗 https://arox-portfolio.vercel.app
+🔗 Comming Soon..
 
 </div>
 
@@ -154,7 +140,7 @@ Modern responsive portfolio built with:
 
 <div align="center">
 
-> "Great websites are not just built — they are crafted."
+> "Great websites are not just built, they are crafted."
 
 </div>
 
