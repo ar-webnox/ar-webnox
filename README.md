@@ -1,50 +1,169 @@
-<div align="center" style="font-family:Poppins; font-size:30px; color:white;">
-<b>Hey, I'm</b>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Abdul Rehman
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Next.js+Developer;Building+Modern+Web+Experiences;Founder+of+AR+WebNox" />
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=500&color=A259FF&center=true&vCenter=true&repeat=false&width=250&lines=Abdul+Rehman" alt="Typing SVG"/>
 
-<hr style="width:60%; border: 0.3px solid #00BFFF;">
+<img src="https://komarev.com/ghpvc/?username=ar-webnox&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=ar-webnox&style=flat-square&color=00BFFF" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ar-webnox?style=for-the-badge&color=0ea5e9" />
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+<img src="https://img.shields.io/github/stars/ar-webnox?style=for-the-badge&color=0ea5e9" />
 
-<h3>❖ Frontend Developer ❖</h3>
+</div>
 
-<p>
-I love building <b>clean, modern & responsive web experiences</b>.<br>
-Currently exploring <b>JavaScript</b> and <b>UI/UX Design</b>.<br>
-Check out my main portfolio: <a href="https://arox-portfolio.vercel.app" target="_blank"><b>arox-portfolio.vercel.app</b></a><br>
-Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=arwebnox@gmail.com&su=Hello!+AR+WebNox+-+GitHub&body=Write+your+message+here&tf=cm" target="_blank">arwebnox@gmail.com<a></b>
-</p>
+---
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+## 🚀 About Me
 
-<h3>✦ Connect with Me ✦</h3>
+```yaml
+Name: Abdul Rehman
+Username: AR WebNox
+Role: Frontend Developer
+Location: Pakistan
+Focus: Modern Web Development
+Currently Learning:
+  - JavaScript
+  - UI/UX Design
+  - Next.js
+Portfolio:
+  - https://arox-portfolio.vercel.app
+Email:
+  - arwebnox@gmail.com
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.youtube.com/@ar.webnox">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="https://www.facebook.com/ar.webnox">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://www.instagram.com/ar.webnox">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:arwebnox@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
 
 <p align="center">
-  <a href="https://www.youtube.com/@ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/></a><span>&nbsp;</span>
-  <a href="https://www.facebook.com/ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="40" alt="Facebook"/></a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" alt="Instagram"/></a><span>&nbsp;</span>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+### Programming
 
-<h3>⟡ Tech Stack ⟡</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,php,vscode,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,php" />
 </p>
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+### Tools
 
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-webnox&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-webnox&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
-</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-webnox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-webnox&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ar-webnox&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-webnox&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ar-webnox&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build Premium Web Projects
+- ⚡ Master JavaScript & Next.js
+- 🎨 Improve UI/UX Design Skills
+- 🌍 Grow AR WebNox Brand
+- 📚 Keep Learning Every Day
+
+---
+
+## 💻 Featured Portfolio
+
+<div align="center">
+
+### 🌐 AR Portfolio
+
+Modern responsive portfolio built with:
+
+`Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+
+🔗 https://arox-portfolio.vercel.app
+
+</div>
+
+---
+
+## ☕ Developer Quote
+
+<div align="center">
+
+> "Great websites are not just built — they are crafted."
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:8b5cf6&section=footer"/>
 
 </div>
