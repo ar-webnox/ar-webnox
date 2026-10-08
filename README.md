@@ -29,7 +29,7 @@ Currently Learning:
   - UI/UX Design
   - Next.js
 Portfolio:
-  - https://arox-portfolio.vercel.app
+  - https://ar-webnox.vercel.app
 Email:
   - arwebnox@gmail.com
 ```
@@ -130,7 +130,7 @@ Modern responsive portfolio built with:
 
 `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
 
-🔗 Comming Soon..
+🔗 https://ar-webnox.vercel.app
 
 </div>
 
